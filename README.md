@@ -52,5 +52,7 @@ Najważniejsze informacje o działalności firmy:
 
 ![Sprzedaz](images/Sprzedaz.gif)
 
-Szczegółowy opis wizualizacji oraz interpretacja wyników zostały przedstawione w raporcie PDF ["Dashboard Power BI - baza WWI"](https://github.com/natalia-maler/Wide-World-Importers-Analysis/blob/main/WideWorldImporters_SQL.pdf)
+Szczegółowy opis wizualizacji oraz interpretacja wyników zostały przedstawione w raporcie PDF ["Dashboard Power BI - baza WWI"](https://github.com/natalia-maler/Wide-World-Importers-Analysis/blob/main/Dashboard%20Power%20BI%20-%20baza%20WWI.pdf)
+
+Projekt ten prezentuje pełny proces Business Intelligence od danych przechowywanych w relacyjnej bazie danych SQL, przez przetwarzanie analityczne, aż po stworzenie interaktywnego pulpitu nawigacyjnego w usłudze Power BI.
 

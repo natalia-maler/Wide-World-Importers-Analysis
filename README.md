@@ -20,4 +20,4 @@ Analizę przeprowadzono w oparciu o trzy główne moduły biznesowe:
 - Magazyn
 - Sprzedaż
 
-Szczegółowa dokumentacja wykorzystująca zapytania SQL została opracowana w pliku PDF pt. "WideWorldImporters_SQL.pdf" [Dokumentacja](), zawierającym opis struktury bazy danych, analizowanych modułów oraz wszystkich wykonanych zapytań SQL wraz z ich interpretacją.
+Szczegółowa dokumentacja wykorzystująca zapytania SQL została opracowana w pliku PDF pt. "WideWorldImporters_SQL.pdf" [Dokumentacja](https://github.com/natalia-maler/Wide-World-Importers-Analysis/blob/main/WideWorldImporters_SQL.pdf), zawierającym opis struktury bazy danych, analizowanych modułów oraz wszystkich wykonanych zapytań SQL wraz z ich interpretacją.

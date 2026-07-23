@@ -21,3 +21,36 @@ Analizę przeprowadzono w oparciu o trzy główne moduły biznesowe:
 - Sprzedaż
 
 Szczegółowa dokumentacja wykorzystująca zapytania SQL została opracowana w pliku PDF pt.["WideWorldImporters_SQL.pdf"](https://github.com/natalia-maler/Wide-World-Importers-Analysis/blob/main/WideWorldImporters_SQL.pdf), zawierającym opis struktury bazy danych, analizowanych modułów oraz wszystkich wykonanych zapytań SQL wraz z ich interpretacją.
+
+
+### Dashboard Power BI
+Celem opracowanego dashboardu w Power BI jest przedstawienie kompleksowej analizy działalności przedsiębiorstwa na podstawie danych z bazy Wide World Importers.
+Dashboard umożliwia monitorowanie procesów związanych z zakupami, magazynowaniem oraz sprzedażą produktów, dostarczając użytkownikowi przejrzystych informacji wspierających podejmowanie decyzji biznesowych.
+
+Raport składa się z czterech stron analitycznych.
+- Podsumowanie - strona prezentuje najważniejsze informacje dotyczące działalności przedsiębiorstwa w jednym miejscu.
+
+Najważniejsze informacje o działalności firmy:
+- Liczba produktów oferowanych przez przedsiębiorstwo,
+- Liczba dostawców współpracujących z firmą,
+- Liczba klientów,
+- Liczba zrealizowanych zamówień sprzedaży,
+- Łączna wartość sprzedaży,
+- Łączny wygenerowany zysk.
+
+![Podsumowanie](images/Podsumowanie.gif)
+
+- Zakupy - sekcja przedstawia analizę procesu zaopatrzenia przedsiębiorstwa. Umożliwia ocenę współpracy z dostawcami, analizę kosztów zakupu oraz monitorowanie aktywności zakupowej. 
+
+![Zakupy](images/Zakupy.gif)
+
+- Magazyn - strona została przygotowana w celu analizy produktów znajdujących się w ofercie przedsiębiorstwa oraz oceny parametrów logistycznych związanych z ich magazynowaniem i dostawą.
+
+![Magazyn](images/Magazyn.gif)
+
+- Sprzedaż - sekcja umożliwia szczegółową analizę wyników sprzedażowych przedsiębiorstwa oraz identyfikację produktów generujących największe i najmniejsze wyniki.
+
+![Sprzedaz](images/Sprzedaz.gif)
+
+Szczegółowy opis wizualizacji oraz interpretacja wyników zostały przedstawione w raporcie PDF ["Dashboard Power BI - baza WWI"](https://github.com/natalia-maler/Wide-World-Importers-Analysis/blob/main/WideWorldImporters_SQL.pdf)
+
